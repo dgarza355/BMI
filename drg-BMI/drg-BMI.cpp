@@ -3,6 +3,7 @@
 // Date: 20200309
 // Description: To check the BMI on men and women.
 
+#include "stdafx.h"
 #include <iostream>
 #include <string>
 #include <cmath>
